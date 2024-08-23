@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="EtiquetasSoap" />
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://erp.natural.gs/portalcfd/pedidos/webservice/etiquetas.asmx"
+                binding="basicHttpBinding" bindingConfiguration="EtiquetasSoap"
+                contract="ServicioEtiquetas.EtiquetasSoap" name="EtiquetasSoap" />
+        </client>
+    </system.serviceModel>
+</configuration>

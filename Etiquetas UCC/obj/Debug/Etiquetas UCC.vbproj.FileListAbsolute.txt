@@ -1,0 +1,16 @@
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\obj\Debug\Etiquetas UCC.vbproj.AssemblyReference.cache
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\obj\Debug\Etiquetas_UCC.Resources.resources
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\obj\Debug\Etiquetas UCC.vbproj.GenerateResource.cache
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\obj\Debug\Etiquetas UCC.vbproj.CoreCompileInputs.cache
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\obj\Debug\Etiquetas_UCC.AplicacionEtiquetaUCC.resources
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\bin\Debug\EtiquetasUCC.exe.config
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\bin\Debug\EtiquetasUCC.exe.manifest
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\bin\Debug\EtiquetasUCC.application
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\bin\Debug\EtiquetasUCC.exe
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\bin\Debug\EtiquetasUCC.pdb
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\bin\Debug\EtiquetasUCC.xml
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\obj\Debug\EtiquetasUCC.exe.manifest
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\obj\Debug\EtiquetasUCC.application
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\obj\Debug\EtiquetasUCC.exe
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\obj\Debug\EtiquetasUCC.xml
+C:\Users\DT-ELITEDESK-HP\Documents\GitHub\Etiquetas UCC\Etiquetas UCC\obj\Debug\EtiquetasUCC.pdb
